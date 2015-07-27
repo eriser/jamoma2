@@ -14,6 +14,7 @@
  */
 
 #include "Jamoma.h"
+#include "JamomaGlobals.h"
 #include "portaudio.h"
 
 

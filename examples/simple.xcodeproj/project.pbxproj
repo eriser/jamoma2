@@ -978,6 +978,7 @@
 		228D555F1B629FBD007024D6 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
 		228D55601B629FBD007024D6 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = /System/Library/Frameworks/CoreAudio.framework; sourceTree = "<absolute>"; };
 		228D55651B62A005007024D6 /* libportaudio.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libportaudio.a; path = portaudio/libportaudio.a; sourceTree = "<group>"; };
+		22EF26291B66B8BE0013FA2E /* JamomaGlobals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = JamomaGlobals.h; path = ../includes/JamomaGlobals.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3234,6 +3235,7 @@
 				228D55501B629DE3007024D6 /* Jamoma.h */,
 				228D55511B629DE3007024D6 /* JamomaAudioObject.h */,
 				228D55521B629DE3007024D6 /* JamomaCircularStorage.h */,
+				22EF26291B66B8BE0013FA2E /* JamomaGlobals.h */,
 				228D55571B629DE3007024D6 /* JamomaObject.h */,
 				228D55591B629DE3007024D6 /* JamomaSample.h */,
 				228D555A1B629DE3007024D6 /* JamomaSymbol.h */,
